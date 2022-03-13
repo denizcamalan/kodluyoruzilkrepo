@@ -25,4 +25,4 @@ istediğinizi tartışmak için bir konu açınız.
 
 -License
 
-[MIT]
+[MIT](https://opensource.org/licenses/MIT)
