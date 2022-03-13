@@ -4,13 +4,13 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
-- Installation
+# Installation
 
 Öncelikle projeyi clonelayın. 
 
 `git clone https://github.com/denizcamalan/kodluyoruzilkrepo.git`
 
-- Usage
+# Usage
  
  Projeyi cloneladıktan sonra Visula Studio Code programında açınız.
 
@@ -20,11 +20,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 `code.`
 
-- Contributing 
+# Contributing 
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek 
 istediğinizi tartışmak için bir konu açınız.
 
--License
+# License
 
 [MIT](https://opensource.org/licenses/MIT)
