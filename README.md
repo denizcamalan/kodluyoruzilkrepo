@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-=======
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
@@ -31,5 +27,4 @@ istediğinizi tartışmak için bir konu açınız.
 
 -License
 
-[MIT]
->>>>>>> Stashed changes
+[MIT](https://opensource.org/licenses/MIT)
